@@ -1,0 +1,9 @@
+Welcome Header: The website starts with a main heading "Welcome to Our Website" in the header section.
+Hero Section: There's a hero section showcasing an image of dogs and a welcome message for web designers.
+Contact Form: The hero section includes a simple form to collect name, email, and a message from visitors, with a "Share your experience with us" button.
+Content Section: A container div encloses a content section with details about the website, including an "About Us" section with information about the website's mission and team.
+Contact Information: Contact details are provided, including an email address, phone number, and links to Facebook and Instagram pages.
+Footer: The website has a footer with a copyright notice for "My Website" in 2025.
+CSS Styling: The website links to an external CSS file named "sal.css" for styling. 
+
+In summary, this HTML code creates a simple one-page website featuring a welcome message, an image, a contact form, information about the website and its team, and a footer with contact links. 
